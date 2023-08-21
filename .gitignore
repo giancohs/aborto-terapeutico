@@ -6,3 +6,6 @@
 #Ignore Quarto cache
 reports/exploration_cache/
 /.quarto/
+
+#Ignore raw data because is too large
+data/raw/
