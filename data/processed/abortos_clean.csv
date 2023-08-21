@@ -1,0 +1,192 @@
+fecha_presentacion,año_presentacion,tipo_afiliacion_cliente,tipo_cobertura,diagnostico_codigo,diagnostico,subdivision_diagnostico,fecha_ingreso_hospitalario,año_ingreso_hospitalario,fecha_egreso_hospitalario,dias_hospitalizacion,ubigeo_paciente,departamento_paciente,provincia_paciente,distrito_paciente,ubigeo_ipress_inei,departamento_ipress_inei,provincia_ipress_inei,distrito_ipress_inei
+2021-03-30,2021,Regular,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,140137,Lima,Lima,San Juan de Lurigancho,150101,Lima,Lima,Lima
+2021-06-02,2021,Regular,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,140104,Lima,Lima,Breña,150101,Lima,Lima,Lima
+2021-04-05,2021,Regular,Ambulatorio,O04.1,Aborto médico,"Incompleto, complicado por hemorragia excesiva o tardía",NA,NA,NA,NA,140122,Lima,Lima,Rímac,150101,Lima,Lima,Lima
+2021-08-10,2021,Regular,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,140135,Lima,Lima,El Agustino,150101,Lima,Lima,Lima
+2021-09-03,2021,Regular,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,140142,Lima,Lima,Los Olivos,150101,Lima,Lima,Lima
+2021-10-27,2021,Regular,Hospitalaria,O04.4,Aborto médico,"Incompleto, sin complicación",2021-10-27,2021,2021-10-29,2,140110,Lima,Lima,La Molina,150113,Lima,Lima,Jesús María
+2021-10-27,2021,Regular,Hospitalaria,O04.4,Aborto médico,"Incompleto, sin complicación",2021-10-27,2021,2021-10-29,2,140110,Lima,Lima,La Molina,150113,Lima,Lima,Jesús María
+2021-02-05,2021,Regular,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,140130,Lima,Lima,Santiago de Surco,150140,Lima,Lima,Santiago de Surco
+2021-10-01,2021,Regular,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,140114,Lima,Lima,Magdalena del Mar,150121,Lima,Lima,Pueblo Libre
+2021-10-01,2021,Regular,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,140114,Lima,Lima,Magdalena del Mar,150121,Lima,Lima,Pueblo Libre
+2020-12-29,2020,Regular,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,140116,Lima,Lima,Pachacamac,150140,Lima,Lima,Santiago de Surco
+2021-01-06,2021,Regular,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,040128,Arequipa,Arequipa,Alto Selva Alegre,040101,Arequipa,Arequipa,Arequipa
+2021-10-15,2021,Regular,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,190101,Piura,Piura,Piura,200101,Piura,Piura,Piura
+2021-01-07,2021,Regular,Ambulatorio,O04.9,Aborto médico,"Completo o no especificado, sin complicación",NA,NA,NA,NA,140106,Lima,Lima,Comas,150130,Lima,Lima,San Borja
+2021-01-07,2021,Regular,Ambulatorio,O04.6,Aborto médico,"Completo o no especificado, complicado por hemorragia excesiva o tardía",NA,NA,NA,NA,100401,Ica,Pisco,Pisco,150130,Lima,Lima,San Borja
+2021-05-22,2021,Potestativo,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,140138,Lima,Lima,San Luis,150130,Lima,Lima,San Borja
+2021-05-27,2021,Regular,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,140109,Lima,Lima,La Victoria,150130,Lima,Lima,San Borja
+2021-08-26,2021,Regular,Ambulatorio,O04.9,Aborto médico,"Completo o no especificado, sin complicación",NA,NA,NA,NA,140101,Lima,Lima,Lima,150130,Lima,Lima,San Borja
+2021-05-22,2021,Potestativo,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,140138,Lima,Lima,San Luis,150130,Lima,Lima,San Borja
+2021-11-14,2021,Regular,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,NA,NA,NA,NA,040101,Arequipa,Arequipa,Arequipa
+2020-12-05,2020,Regular,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,NA,NA,NA,NA,040101,Arequipa,Arequipa,Arequipa
+2021-09-21,2021,Regular,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,140728,Lima,Yauyos,Viñac,150108,Lima,Lima,Chorrillos
+2021-05-07,2021,Potestativo,Ambulatorio,O04.3,Aborto médico,"Incompleto, con otras complicaciones especificadas y las no especificadas",NA,NA,NA,NA,140117,Lima,Lima,Pueblo Libre,150121,Lima,Lima,Pueblo Libre
+2021-11-04,2021,Regular,Ambulatorio,O04.3,Aborto médico,"Incompleto, con otras complicaciones especificadas y las no especificadas",NA,NA,NA,NA,140133,Lima,Lima,Jesús María,150121,Lima,Lima,Pueblo Libre
+2021-04-01,2021,Regular,Ambulatorio,O04.9,Aborto médico,"Completo o no especificado, sin complicación",NA,NA,NA,NA,140124,Lima,Lima,San Isidro,150131,Lima,Lima,San Isidro
+2020-12-30,2020,Regular,Ambulatorio,O04.0,Aborto médico,"Incompleto, complicado con infección genital y pelviana",NA,NA,NA,NA,140110,Lima,Lima,La Molina,150131,Lima,Lima,San Isidro
+2021-03-12,2021,Regular,Hospitalaria,O04.9,Aborto médico,"Completo o no especificado, sin complicación",2021-03-12,2021,2021-03-13,1,120101,La Libertad,Trujillo,Trujillo,130111,La Libertad,Trujillo,Victor Larco Herrera
+2021-09-07,2021,Potestativo,Ambulatorio,O04.9,Aborto médico,"Completo o no especificado, sin complicación",NA,NA,NA,NA,120101,La Libertad,Trujillo,Trujillo,130111,La Libertad,Trujillo,Victor Larco Herrera
+2021-02-01,2021,Regular,Ambulatorio,O04.9,Aborto médico,"Completo o no especificado, sin complicación",NA,NA,NA,NA,120107,La Libertad,Trujillo,Victor larco Herrera,130111,La Libertad,Trujillo,Victor Larco Herrera
+2021-02-05,2021,Regular,Ambulatorio,O04.9,Aborto médico,"Completo o no especificado, sin complicación",NA,NA,NA,NA,140133,Lima,Lima,Jesús María,130111,La Libertad,Trujillo,Victor Larco Herrera
+2021-02-05,2021,Regular,Ambulatorio,O04.9,Aborto médico,"Completo o no especificado, sin complicación",NA,NA,NA,NA,120107,La Libertad,Trujillo,Victor larco Herrera,130111,La Libertad,Trujillo,Victor Larco Herrera
+2021-06-02,2021,Regular,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,120101,La Libertad,Trujillo,Trujillo,130111,La Libertad,Trujillo,Victor Larco Herrera
+2021-06-07,2021,Regular,Ambulatorio,O04.9,Aborto médico,"Completo o no especificado, sin complicación",NA,NA,NA,NA,120101,La Libertad,Trujillo,Trujillo,130111,La Libertad,Trujillo,Victor Larco Herrera
+2021-08-20,2021,Regular,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,130101,Lambayeque,Chiclayo,Chiclayo,130111,La Libertad,Trujillo,Victor Larco Herrera
+2021-02-22,2021,Potestativo,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,190703,Piura,Talara,La Brea,200701,Piura,Talara,Pariñas
+2021-08-20,2021,Regular,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,040119,Arequipa,Arequipa,Socabaya,040101,Arequipa,Arequipa,Arequipa
+2020-12-12,2020,Regular,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,110610,Junín,Yauli,Santa Rosa de Sacco,150114,Lima,Lima,La Molina
+2020-12-05,2020,Regular,Hospitalaria,O04.0,Aborto médico,"Incompleto, complicado con infección genital y pelviana",2020-12-05,2020,2020-12-06,1,110101,Junín,Huancayo,Huancayo,150136,Lima,Lima,San Miguel
+2021-08-11,2021,Regular,Ambulatorio,O04.8,Aborto médico,"Completo o no especificado, con otras complicaciones especificadas y las no especificadas",NA,NA,NA,NA,140101,Lima,Lima,Lima,150131,Lima,Lima,San Isidro
+2021-05-08,2021,Regular,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,140136,Lima,Lima,San Juan de Miraflores,150131,Lima,Lima,San Isidro
+2021-05-08,2021,Regular,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,140136,Lima,Lima,San Juan de Miraflores,150131,Lima,Lima,San Isidro
+2021-10-26,2021,Regular,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,190101,Piura,Piura,Piura,200101,Piura,Piura,Piura
+2021-10-28,2021,Regular,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,190101,Piura,Piura,Piura,200101,Piura,Piura,Piura
+2021-11-04,2021,Regular,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,190101,Piura,Piura,Piura,200101,Piura,Piura,Piura
+2020-11-24,2020,Regular,Emergencia,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,190103,Piura,Piura,Castilla,200101,Piura,Piura,Piura
+2021-04-01,2021,Regular,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,190801,Piura,Sechura,Sechura,200101,Piura,Piura,Piura
+2021-10-28,2021,Regular,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,190101,Piura,Piura,Piura,200101,Piura,Piura,Piura
+2021-10-05,2021,Regular,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,140142,Lima,Lima,Los Olivos,150112,Lima,Lima,Independencia
+2021-10-09,2021,Regular,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,140119,Lima,Lima,Puente Piedra,150112,Lima,Lima,Independencia
+2021-01-11,2021,Regular,Ambulatorio,O04.0,Aborto médico,"Incompleto, complicado con infección genital y pelviana",NA,NA,NA,NA,040129,Arequipa,Arequipa,José Luis Bustamante y Rivero,040104,Arequipa,Arequipa,Cerro Colorado
+2021-01-18,2021,Regular,Ambulatorio,O04.0,Aborto médico,"Incompleto, complicado con infección genital y pelviana",NA,NA,NA,NA,040129,Arequipa,Arequipa,José Luis Bustamante y Rivero,040104,Arequipa,Arequipa,Cerro Colorado
+2021-01-11,2021,Regular,Hospitalaria,O04.0,Aborto médico,"Incompleto, complicado con infección genital y pelviana",2021-01-11,2021,2021-01-12,1,040129,Arequipa,Arequipa,José Luis Bustamante y Rivero,040104,Arequipa,Arequipa,Cerro Colorado
+2021-09-20,2021,Regular,Hospitalaria,O04.4,Aborto médico,"Incompleto, sin complicación",2021-09-20,2021,2021-09-21,1,140141,Lima,Lima,Villa El Salvador,150131,Lima,Lima,San Isidro
+2021-09-18,2021,Regular,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,140140,Lima,Lima,San Borja,150140,Lima,Lima,Santiago de Surco
+2021-11-03,2021,Regular,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,140126,Lima,Lima,San Martín de Porres,150112,Lima,Lima,Independencia
+2021-08-09,2021,Regular,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,240101,Callao,Callao,Callao,150136,Lima,Lima,San Miguel
+2020-11-03,2020,Regular,Ambulatorio,O04.0,Aborto médico,"Incompleto, complicado con infección genital y pelviana",NA,NA,NA,NA,140137,Lima,Lima,San Juan de Lurigancho,150132,Lima,Lima,San Juan de Lurigancho
+2020-08-28,2020,Regular,Ambulatorio,O04.0,Aborto médico,"Incompleto, complicado con infección genital y pelviana",NA,NA,NA,NA,140140,Lima,Lima,San Borja,150131,Lima,Lima,San Isidro
+2021-07-06,2021,Regular,Emergencia,O04.9,Aborto médico,"Completo o no especificado, sin complicación",NA,NA,NA,NA,240101,Callao,Callao,Callao,150136,Lima,Lima,San Miguel
+2021-07-06,2021,Regular,Emergencia,O04.9,Aborto médico,"Completo o no especificado, sin complicación",NA,NA,NA,NA,240101,Callao,Callao,Callao,150136,Lima,Lima,San Miguel
+2021-02-19,2021,Regular,Extra hospitalario,O04.5,Aborto médico,"Completo o no especificado, complicado con infección genital y pelviana",NA,NA,NA,NA,140120,Lima,Lima,Punta Hermosa,150122,Lima,Lima,Miraflores
+2021-10-07,2021,Regular,Extra hospitalario,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,140133,Lima,Lima,Jesús María,150122,Lima,Lima,Miraflores
+2021-05-05,2021,Regular,Ambulatorio,O04.3,Aborto médico,"Incompleto, con otras complicaciones especificadas y las no especificadas",NA,NA,NA,NA,140106,Lima,Lima,Comas,150121,Lima,Lima,Pueblo Libre
+2021-05-05,2021,Regular,Ambulatorio,O04.3,Aborto médico,"Incompleto, con otras complicaciones especificadas y las no especificadas",NA,NA,NA,NA,140106,Lima,Lima,Comas,150121,Lima,Lima,Pueblo Libre
+2021-06-18,2021,Regular,Ambulatorio,O04.3,Aborto médico,"Incompleto, con otras complicaciones especificadas y las no especificadas",NA,NA,NA,NA,140117,Lima,Lima,Pueblo Libre,150136,Lima,Lima,San Miguel
+2021-07-21,2021,Complementario,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,140130,Lima,Lima,Santiago de Surco,150131,Lima,Lima,San Isidro
+2021-07-19,2021,Complementario,Hospitalaria,O04.9,Aborto médico,"Completo o no especificado, sin complicación",2021-07-19,2021,2021-07-20,1,021309,Áncash,Santa,Nuevo Chimbote,150130,Lima,Lima,San Borja
+2021-02-15,2021,Complementario,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,NA,NA,NA,NA,040101,Arequipa,Arequipa,Arequipa
+2021-02-15,2021,Complementario,NA,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,NA,NA,NA,NA,040101,Arequipa,Arequipa,Arequipa
+2020-12-11,2020,Complementario,Ambulatorio,O04.0,Aborto médico,"Incompleto, complicado con infección genital y pelviana",NA,NA,NA,NA,140117,Lima,Lima,Pueblo Libre,150140,Lima,Lima,Santiago de Surco
+2021-01-17,2021,Complementario,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,140126,Lima,Lima,San Martín de Porres,150121,Lima,Lima,Pueblo Libre
+2021-09-28,2021,Complementario,Ambulatorio,O04.5,Aborto médico,"Completo o no especificado, complicado con infección genital y pelviana",NA,NA,NA,NA,NA,NA,NA,NA,040104,Arequipa,Arequipa,Cerro Colorado
+2021-05-07,2021,Complementario,Ambulatorio,O04.8,Aborto médico,"Completo o no especificado, con otras complicaciones especificadas y las no especificadas",NA,NA,NA,NA,140114,Lima,Lima,Magdalena del Mar,150131,Lima,Lima,San Isidro
+2021-06-23,2021,Regular,Hospitalaria,O04.4,Aborto médico,"Incompleto, sin complicación",2021-06-23,2021,2021-06-23,0,NA,NA,NA,NA,040101,Arequipa,Arequipa,Arequipa
+2021-09-09,2021,Regular,Ambulatorio,O04.0,Aborto médico,"Incompleto, complicado con infección genital y pelviana",NA,NA,NA,NA,070801,Cusco,Espinar,Espinar,040126,Arequipa,Arequipa,Yanahuara
+2021-11-15,2021,Regular,Ambulatorio,O04.7,Aborto médico,"Completo o no especificado, complicado por embolia",NA,NA,NA,NA,040128,Arequipa,Arequipa,Alto Selva Alegre,040126,Arequipa,Arequipa,Yanahuara
+2021-09-09,2021,Regular,Hospitalaria,O04.1,Aborto médico,"Incompleto, complicado por hemorragia excesiva o tardía",2021-09-09,2021,2021-09-10,1,070801,Cusco,Espinar,Espinar,040126,Arequipa,Arequipa,Yanahuara
+2018-08-09,2018,Regular,Ambulatorio,O04.9,Aborto médico,"Completo o no especificado, sin complicación",NA,NA,NA,NA,020102,Áncash,Huaraz,Independencia,020105,Áncash,Huaraz,Independencia
+2018-01-11,2018,Regular,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,120107,La Libertad,Trujillo,Victor larco Herrera,130101,La Libertad,Trujillo,Trujillo
+2018-01-11,2018,Regular,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,120107,La Libertad,Trujillo,Victor larco Herrera,130101,La Libertad,Trujillo,Trujillo
+2018-01-09,2018,Regular,Ambulatorio,O04.1,Aborto médico,"Incompleto, complicado por hemorragia excesiva o tardía",NA,NA,NA,NA,120107,La Libertad,Trujillo,Victor larco Herrera,130101,La Libertad,Trujillo,Trujillo
+2018-03-07,2018,Regular,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,140142,Lima,Lima,Los Olivos,150136,Lima,Lima,San Miguel
+2017-12-01,2017,Regular,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,140127,Lima,Lima,San Miguel,150136,Lima,Lima,San Miguel
+2018-04-20,2018,Regular,Ambulatorio,O04.0,Aborto médico,"Incompleto, complicado con infección genital y pelviana",NA,NA,NA,NA,100103,Ica,Ica,Los Aquijes,110101,Ica,Ica,Ica
+2018-03-13,2018,Regular,Hospitalaria,O04.4,Aborto médico,"Incompleto, sin complicación",2018-03-13,2018,2018-03-14,1,140142,Lima,Lima,Los Olivos,150135,Lima,Lima,San Martín de Porres
+2017-11-02,2017,Regular,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,140111,Lima,Lima,Lince,150101,Lima,Lima,Lima
+2018-07-12,2018,Regular,Ambulatorio,O04.9,Aborto médico,"Completo o no especificado, sin complicación",NA,NA,NA,NA,140115,Lima,Lima,Miraflores,150130,Lima,Lima,San Borja
+2018-08-31,2018,Regular,Ambulatorio,O04.5,Aborto médico,"Completo o no especificado, complicado con infección genital y pelviana",NA,NA,NA,NA,140132,Lima,Lima,Villa María del Triunfo,150130,Lima,Lima,San Borja
+2018-08-24,2018,Regular,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,140132,Lima,Lima,Villa María del Triunfo,150130,Lima,Lima,San Borja
+2018-03-05,2018,Regular,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,140136,Lima,Lima,San Juan de Miraflores,150130,Lima,Lima,San Borja
+2017-12-29,2017,Regular,Hospitalaria,O04.9,Aborto médico,"Completo o no especificado, sin complicación",2017-12-29,2017,2017-12-29,0,140140,Lima,Lima,San Borja,150130,Lima,Lima,San Borja
+2018-09-12,2018,Regular,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,140106,Lima,Lima,Comas,150121,Lima,Lima,Pueblo Libre
+2018-10-20,2018,Regular,Ambulatorio,O04.9,Aborto médico,"Completo o no especificado, sin complicación",NA,NA,NA,NA,140130,Lima,Lima,Santiago de Surco,150121,Lima,Lima,Pueblo Libre
+2018-07-07,2018,Regular,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,190101,Piura,Piura,Piura,200104,Piura,Piura,Castilla
+2018-01-16,2018,Regular,Ambulatorio,O04.9,Aborto médico,"Completo o no especificado, sin complicación",NA,NA,NA,NA,050107,Ayacucho,Huamanga,San Juan Bautista,150140,Lima,Lima,Santiago de Surco
+2018-09-29,2018,Regular,Ambulatorio,O04.9,Aborto médico,"Completo o no especificado, sin complicación",NA,NA,NA,NA,120101,La Libertad,Trujillo,Trujillo,130111,La Libertad,Trujillo,Victor Larco Herrera
+2018-05-12,2018,Regular,Ambulatorio,O04.9,Aborto médico,"Completo o no especificado, sin complicación",NA,NA,NA,NA,040129,Arequipa,Arequipa,José Luis Bustamante y Rivero,040101,Arequipa,Arequipa,Arequipa
+2018-07-29,2018,Potestativo,Hospitalaria,O04.9,Aborto médico,"Completo o no especificado, sin complicación",2018-07-29,2018,2018-07-31,2,040109,Arequipa,Arequipa,Paucarpata,040101,Arequipa,Arequipa,Arequipa
+2018-09-11,2018,Regular,Ambulatorio,O04.0,Aborto médico,"Incompleto, complicado con infección genital y pelviana",NA,NA,NA,NA,140127,Lima,Lima,San Miguel,150136,Lima,Lima,San Miguel
+2018-07-17,2018,Regular,Hospitalaria,O04.3,Aborto médico,"Incompleto, con otras complicaciones especificadas y las no especificadas",2018-07-17,2018,2018-07-19,2,140115,Lima,Lima,Miraflores,150122,Lima,Lima,Miraflores
+2018-05-26,2018,Regular,Ambulatorio,O04.0,Aborto médico,"Incompleto, complicado con infección genital y pelviana",NA,NA,NA,NA,140106,Lima,Lima,Comas,150135,Lima,Lima,San Martín de Porres
+2018-03-28,2018,Regular,Hospitalaria,O04.3,Aborto médico,"Incompleto, con otras complicaciones especificadas y las no especificadas",2018-03-28,2018,2018-03-29,1,140111,Lima,Lima,Lince,150135,Lima,Lima,San Martín de Porres
+2018-04-16,2018,Regular,Emergencia,O04.0,Aborto médico,"Incompleto, complicado con infección genital y pelviana",NA,NA,NA,NA,140110,Lima,Lima,La Molina,150140,Lima,Lima,Santiago de Surco
+2018-07-03,2018,Complementario,Ambulatorio,O04.9,Aborto médico,"Completo o no especificado, sin complicación",NA,NA,NA,NA,140124,Lima,Lima,San Isidro,150113,Lima,Lima,Jesús María
+2018-08-06,2018,Complementario,Hospitalaria,O04.4,Aborto médico,"Incompleto, sin complicación",2018-08-06,2018,2018-08-07,1,140127,Lima,Lima,San Miguel,150130,Lima,Lima,San Borja
+2018-05-01,2018,Complementario,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,140114,Lima,Lima,Magdalena del Mar,150121,Lima,Lima,Pueblo Libre
+2018-05-01,2018,Complementario,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,140114,Lima,Lima,Magdalena del Mar,150121,Lima,Lima,Pueblo Libre
+2018-08-07,2018,Complementario,Ambulatorio,O04.9,Aborto médico,"Completo o no especificado, sin complicación",NA,NA,NA,NA,140117,Lima,Lima,Pueblo Libre,150122,Lima,Lima,Miraflores
+2018-06-22,2018,Regular,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,240101,Callao,Callao,Callao,070102,Callao,Callao,Bellavista
+2017-11-14,2017,Regular,Hospitalaria,O04.0,Aborto médico,"Incompleto, complicado con infección genital y pelviana",2017-11-14,2017,2017-11-17,3,040107,Arequipa,Arequipa,Miraflores,040101,Arequipa,Arequipa,Arequipa
+2017-11-14,2017,Regular,Ambulatorio,O04.0,Aborto médico,"Incompleto, complicado con infección genital y pelviana",NA,NA,NA,NA,040107,Arequipa,Arequipa,Miraflores,040101,Arequipa,Arequipa,Arequipa
+2018-10-11,2018,Regular,Ambulatorio,O04.9,Aborto médico,"Completo o no especificado, sin complicación",NA,NA,NA,NA,140140,Lima,Lima,San Borja,150130,Lima,Lima,San Borja
+2018-11-22,2018,Regular,Ambulatorio,O04.2,Aborto médico,"Incompleto, complicado por embolia",NA,NA,NA,NA,110805,Junín,Chanchamayo,Pichanaqui,040101,Arequipa,Arequipa,Arequipa
+2018-12-01,2018,Regular,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,110123,Junín,Huancayo,Pilcomayo,120114,Junín,Huancayo,El Tambo
+2018-12-01,2018,Regular,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,110123,Junín,Huancayo,Pilcomayo,120114,Junín,Huancayo,El Tambo
+2018-11-22,2018,Regular,Hospitalaria,O04.4,Aborto médico,"Incompleto, sin complicación",2018-11-22,2018,2018-11-23,1,140126,Lima,Lima,San Martín de Porres,150135,Lima,Lima,San Martín de Porres
+2018-11-22,2018,Complementario,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,140130,Lima,Lima,Santiago de Surco,150131,Lima,Lima,San Isidro
+2019-09-24,2019,Regular,Ambulatorio,O04.5,Aborto médico,"Completo o no especificado, complicado con infección genital y pelviana",NA,NA,NA,NA,140103,Lima,Lima,Ate,150130,Lima,Lima,San Borja
+2019-06-19,2019,Regular,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,040126,Arequipa,Arequipa,Mariano Melgar,040101,Arequipa,Arequipa,Arequipa
+2018-11-23,2018,Regular,Ambulatorio,O04.1,Aborto médico,"Incompleto, complicado por hemorragia excesiva o tardía",NA,NA,NA,NA,021901,Áncash,Huarmey,Huarmey,130101,La Libertad,Trujillo,Trujillo
+2019-05-07,2019,Regular,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,140140,Lima,Lima,San Borja,150130,Lima,Lima,San Borja
+2019-01-09,2019,Regular,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,130101,Lambayeque,Chiclayo,Chiclayo,140106,Lambayeque,Chiclayo,La Victoria
+2019-01-04,2019,Regular,Hospitalaria,O04.4,Aborto médico,"Incompleto, sin complicación",2019-01-04,2019,2019-01-06,2,140119,Lima,Lima,Puente Piedra,150135,Lima,Lima,San Martín de Porres
+2019-01-14,2019,Regular,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,140142,Lima,Lima,Los Olivos,150135,Lima,Lima,San Martín de Porres
+2019-03-04,2019,Regular,Ambulatorio,O04.9,Aborto médico,"Completo o no especificado, sin complicación",NA,NA,NA,NA,140110,Lima,Lima,La Molina,150131,Lima,Lima,San Isidro
+2019-03-02,2019,Regular,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,140131,Lima,Lima,Surquillo,150130,Lima,Lima,San Borja
+2019-08-14,2019,Regular,Ambulatorio,O04.1,Aborto médico,"Incompleto, complicado por hemorragia excesiva o tardía",NA,NA,NA,NA,140140,Lima,Lima,San Borja,150130,Lima,Lima,San Borja
+2019-08-28,2019,Potestativo,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,140140,Lima,Lima,San Borja,150130,Lima,Lima,San Borja
+2019-01-12,2019,Regular,Ambulatorio,O04.3,Aborto médico,"Incompleto, con otras complicaciones especificadas y las no especificadas",NA,NA,NA,NA,140130,Lima,Lima,Santiago de Surco,150130,Lima,Lima,San Borja
+2019-08-15,2019,Regular,Hospitalaria,O04.1,Aborto médico,"Incompleto, complicado por hemorragia excesiva o tardía",2019-08-15,2019,2019-08-16,1,140140,Lima,Lima,San Borja,150130,Lima,Lima,San Borja
+2019-09-17,2019,Regular,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,140134,Lima,Lima,Independencia,150140,Lima,Lima,Santiago de Surco
+2019-04-08,2019,Regular,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,140115,Lima,Lima,Miraflores,150140,Lima,Lima,Santiago de Surco
+2019-03-11,2019,Regular,Ambulatorio,O04.9,Aborto médico,"Completo o no especificado, sin complicación",NA,NA,NA,NA,120101,La Libertad,Trujillo,Trujillo,130111,La Libertad,Trujillo,Victor Larco Herrera
+2019-03-24,2019,Potestativo,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,140106,Lima,Lima,Comas,060101,Cajamarca,Cajamarca,Cajamarca
+2019-10-19,2019,Regular,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,140127,Lima,Lima,San Miguel,150136,Lima,Lima,San Miguel
+2019-09-14,2019,Regular,Ambulatorio,O04.8,Aborto médico,"Completo o no especificado, con otras complicaciones especificadas y las no especificadas",NA,NA,NA,NA,020102,Áncash,Huaraz,Independencia,150121,Lima,Lima,Pueblo Libre
+2019-05-28,2019,Regular,Ambulatorio,O04.2,Aborto médico,"Incompleto, complicado por embolia",NA,NA,NA,NA,140127,Lima,Lima,San Miguel,150121,Lima,Lima,Pueblo Libre
+2019-01-28,2019,Regular,Ambulatorio,O04.3,Aborto médico,"Incompleto, con otras complicaciones especificadas y las no especificadas",NA,NA,NA,NA,040128,Arequipa,Arequipa,Alto Selva Alegre,040101,Arequipa,Arequipa,Arequipa
+2019-01-22,2019,Regular,Hospitalaria,O04.1,Aborto médico,"Incompleto, complicado por hemorragia excesiva o tardía",2019-01-22,2019,2019-01-23,1,040109,Arequipa,Arequipa,Paucarpata,040101,Arequipa,Arequipa,Arequipa
+2019-11-02,2019,Regular,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,140127,Lima,Lima,San Miguel,150136,Lima,Lima,San Miguel
+2019-10-15,2019,Regular,Ambulatorio,O04.0,Aborto médico,"Incompleto, complicado con infección genital y pelviana",NA,NA,NA,NA,040103,Arequipa,Arequipa,Cerro Colorado,040126,Arequipa,Arequipa,Yanahuara
+2019-10-15,2019,Regular,Hospitalaria,O04.0,Aborto médico,"Incompleto, complicado con infección genital y pelviana",2019-10-15,2019,2019-10-16,1,040103,Arequipa,Arequipa,Cerro Colorado,040126,Arequipa,Arequipa,Yanahuara
+2019-02-02,2019,Regular,Emergencia,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,190115,Piura,Piura,Veintiséis de Octubre,200101,Piura,Piura,Piura
+2018-12-21,2018,Regular,Hospitalaria,O04.0,Aborto médico,"Incompleto, complicado con infección genital y pelviana",2018-12-21,2018,2018-12-23,2,140142,Lima,Lima,Los Olivos,150135,Lima,Lima,San Martín de Porres
+2019-08-19,2019,Regular,Hospitalaria,O04.0,Aborto médico,"Incompleto, complicado con infección genital y pelviana",2019-08-19,2019,2019-08-21,2,140105,Lima,Lima,Carabayllo,150135,Lima,Lima,San Martín de Porres
+2019-10-23,2019,Regular,Ambulatorio,O04.0,Aborto médico,"Incompleto, complicado con infección genital y pelviana",NA,NA,NA,NA,140141,Lima,Lima,Villa El Salvador,150133,Lima,Lima,San Juan de Miraflores
+2018-12-26,2018,Regular,Hospitalaria,O04.4,Aborto médico,"Incompleto, sin complicación",2018-12-26,2018,2018-12-26,0,140142,Lima,Lima,Los Olivos,150121,Lima,Lima,Pueblo Libre
+2019-08-26,2019,Regular,Emergencia,O04.6,Aborto médico,"Completo o no especificado, complicado por hemorragia excesiva o tardía",NA,NA,NA,NA,140122,Lima,Lima,Rímac,150135,Lima,Lima,San Martín de Porres
+2019-04-24,2019,Complementario,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,140117,Lima,Lima,Pueblo Libre,150114,Lima,Lima,La Molina
+2019-05-21,2019,Complementario,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,120101,La Libertad,Trujillo,Trujillo,130101,La Libertad,Trujillo,Trujillo
+2019-01-28,2019,Regular,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,190101,Piura,Piura,Piura,200101,Piura,Piura,Piura
+2018-11-28,2018,Regular,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,140110,Lima,Lima,La Molina,150130,Lima,Lima,San Borja
+2018-11-29,2018,Regular,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,140110,Lima,Lima,La Molina,150130,Lima,Lima,San Borja
+2019-10-08,2019,Regular,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,140101,Lima,Lima,Lima,150101,Lima,Lima,Lima
+2019-02-21,2019,Regular,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,190404,Piura,Morropón,Morropón,021801,Áncash,Santa,Chimbote
+2019-11-13,2019,Regular,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,140108,Lima,Lima,Chorrillos,150130,Lima,Lima,San Borja
+2019-12-11,2019,Regular,Emergencia,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,240101,Callao,Callao,Callao,150121,Lima,Lima,Pueblo Libre
+2019-12-16,2019,Regular,Ambulatorio,O04.5,Aborto médico,"Completo o no especificado, complicado con infección genital y pelviana",NA,NA,NA,NA,140127,Lima,Lima,San Miguel,150130,Lima,Lima,San Borja
+2020-10-14,2020,Regular,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,070108,Cusco,Cusco,Wanchaq,120101,Junín,Huancayo,Huancayo
+2020-05-16,2020,Regular,Ambulatorio,O04.0,Aborto médico,"Incompleto, complicado con infección genital y pelviana",NA,NA,NA,NA,240106,Callao,Callao,Ventanilla,150136,Lima,Lima,San Miguel
+2020-10-02,2020,Regular,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,190101,Piura,Piura,Piura,200101,Piura,Piura,Piura
+2020-01-21,2020,Regular,Hospitalaria,O04.4,Aborto médico,"Incompleto, sin complicación",2020-01-21,2020,2020-01-23,2,120111,La Libertad,Trujillo,La Esperanza,130101,La Libertad,Trujillo,Trujillo
+2020-08-05,2020,Regular,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,140119,Lima,Lima,Puente Piedra,150101,Lima,Lima,Lima
+2020-04-28,2020,Regular,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,120101,La Libertad,Trujillo,Trujillo,150113,Lima,Lima,Jesús María
+2020-03-28,2020,Regular,Ambulatorio,O04.9,Aborto médico,"Completo o no especificado, sin complicación",NA,NA,NA,NA,140140,Lima,Lima,San Borja,150130,Lima,Lima,San Borja
+2020-09-14,2020,Potestativo,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,100201,Ica,Chincha,Chincha Alta,150130,Lima,Lima,San Borja
+2020-09-24,2020,Regular,Ambulatorio,O04.9,Aborto médico,"Completo o no especificado, sin complicación",NA,NA,NA,NA,190103,Piura,Piura,Castilla,150130,Lima,Lima,San Borja
+2020-02-06,2020,Regular,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,140101,Lima,Lima,Lima,150130,Lima,Lima,San Borja
+2020-05-28,2020,Regular,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,070104,Cusco,Cusco,San Jerónimo,150108,Lima,Lima,Chorrillos
+2020-04-25,2020,Regular,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,140136,Lima,Lima,San Juan de Miraflores,150140,Lima,Lima,Santiago de Surco
+2019-12-12,2019,Regular,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,240101,Callao,Callao,Callao,150121,Lima,Lima,Pueblo Libre
+2019-12-19,2019,Regular,Ambulatorio,O04.9,Aborto médico,"Completo o no especificado, sin complicación",NA,NA,NA,NA,140137,Lima,Lima,San Juan de Lurigancho,150121,Lima,Lima,Pueblo Libre
+2020-10-06,2020,Regular,Ambulatorio,O04.9,Aborto médico,"Completo o no especificado, sin complicación",NA,NA,NA,NA,120101,La Libertad,Trujillo,Trujillo,130111,La Libertad,Trujillo,Victor Larco Herrera
+2019-12-26,2019,Regular,Ambulatorio,O04.0,Aborto médico,"Incompleto, complicado con infección genital y pelviana",NA,NA,NA,NA,140117,Lima,Lima,Pueblo Libre,150121,Lima,Lima,Pueblo Libre
+2020-03-27,2020,Regular,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,040107,Arequipa,Arequipa,Miraflores,040101,Arequipa,Arequipa,Arequipa
+2020-01-08,2020,Regular,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,240106,Callao,Callao,Ventanilla,150136,Lima,Lima,San Miguel
+2019-11-27,2019,Regular,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,140138,Lima,Lima,San Luis,150122,Lima,Lima,Miraflores
+2020-07-19,2020,Potestativo,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,140140,Lima,Lima,San Borja,150131,Lima,Lima,San Isidro
+2020-07-26,2020,Regular,Ambulatorio,O04.3,Aborto médico,"Incompleto, con otras complicaciones especificadas y las no especificadas",NA,NA,NA,NA,140137,Lima,Lima,San Juan de Lurigancho,150132,Lima,Lima,San Juan de Lurigancho
+2020-06-10,2020,Regular,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,140126,Lima,Lima,San Martín de Porres,150117,Lima,Lima,Los Olivos
+2020-02-17,2020,Regular,Emergencia,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,140114,Lima,Lima,Magdalena del Mar,150136,Lima,Lima,San Miguel
+2020-06-12,2020,Regular,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,NA,NA,NA,NA,040101,Arequipa,Arequipa,Arequipa
+2019-11-06,2019,Regular,Hospitalaria,O04.0,Aborto médico,"Incompleto, complicado con infección genital y pelviana",2019-11-06,2019,2019-11-07,1,140130,Lima,Lima,Santiago de Surco,150131,Lima,Lima,San Isidro
+2019-11-06,2019,Regular,Hospitalaria,O04.0,Aborto médico,"Incompleto, complicado con infección genital y pelviana",2019-11-06,2019,2019-11-07,1,140130,Lima,Lima,Santiago de Surco,150131,Lima,Lima,San Isidro
+2020-03-08,2020,Regular,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,120110,La Libertad,Trujillo,El Porvenir,130111,La Libertad,Trujillo,Victor Larco Herrera
+2020-08-25,2020,Regular,Emergencia,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,240105,Callao,Callao,La Perla,150136,Lima,Lima,San Miguel
+2020-05-28,2020,Potestativo,Emergencia,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,140126,Lima,Lima,San Martín de Porres,150122,Lima,Lima,Miraflores
+2020-01-18,2020,Complementario,Ambulatorio,O04.1,Aborto médico,"Incompleto, complicado por hemorragia excesiva o tardía",NA,NA,NA,NA,NA,NA,NA,NA,150122,Lima,Lima,Miraflores
+2020-11-14,2020,Regular,Ambulatorio,O04.8,Aborto médico,"Completo o no especificado, con otras complicaciones especificadas y las no especificadas",NA,NA,NA,NA,140140,Lima,Lima,San Borja,150140,Lima,Lima,Santiago de Surco
+2020-10-16,2020,Regular,Ambulatorio,O04.4,Aborto médico,"Incompleto, sin complicación",NA,NA,NA,NA,120101,La Libertad,Trujillo,Trujillo,130111,La Libertad,Trujillo,Victor Larco Herrera
+2020-11-06,2020,Regular,Ambulatorio,O04.1,Aborto médico,"Incompleto, complicado por hemorragia excesiva o tardía",NA,NA,NA,NA,190101,Piura,Piura,Piura,200101,Piura,Piura,Piura
