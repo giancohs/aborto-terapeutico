@@ -1,6 +1,15 @@
 library(tidyverse)
 library(lubridate)
 
+# Exporting filtered data from susalud
+
+# data_susalud %>% 
+#     write_csv("data/processed/abortos_compiled.csv")
+    
+# Reading data from susalud
+
+data_susalud <- read_csv("data/processed/abortos_compiled.csv")
+
 abortos <- data_susalud %>% 
     #filtering only abortions with diagnosis code O04
     select(
@@ -8,6 +17,7 @@ abortos <- data_susalud %>%
         tipo_afiliacion_cliente = VTAFILPAC_ATE, 
         tipo_cobertura = VTIPOCOBERT_ATE, 
         diagnostico_codigo = VPRIDIAGCIE_ATE,
+        fecha_nacimiento_paciente = VFECNACPAC_ATE,
         fecha_ingreso_hospitalario = VFECINGRHOSP_ATE,
         fecha_egreso_hospitalario = VFECEGRHOSP_ATE,
         ubigeo_paciente = VUBIGEOAFILIA_ATE,
@@ -38,6 +48,8 @@ abortos_clean <- abortos %>%
             tipo_cobertura == "6" ~ "Emergencia",
             tipo_cobertura == "7" ~ "Otros",          
         ),
+        fecha_nacimiento_paciente = ymd(fecha_nacimiento_paciente),
+        edad_paciente = year(fecha_presentacion) - year(fecha_nacimiento_paciente),        
         diagnostico = case_when(
             str_detect(diagnostico_codigo, "O04")  ~ "Aborto médico",
             T ~ diagnostico_codigo
@@ -85,6 +97,8 @@ abortos_clean <- abortos %>%
         año_presentacion,
         tipo_afiliacion_cliente,
         tipo_cobertura,
+        fecha_nacimiento_paciente,
+        edad_paciente,
         diagnostico_codigo,
         diagnostico,
         subdivision_diagnostico,
@@ -105,6 +119,3 @@ abortos_clean <- abortos %>%
 abortos_clean %>% 
     write_csv("data/processed/abortos_clean.csv")
 
-data_susalud %>% 
-    write_csv("data/processed/abortos_compiled.csv")
-    

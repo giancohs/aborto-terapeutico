@@ -2,6 +2,7 @@ library(purrr)
 library(readr)
 library(dplyr)
 library(tidyverse)
+library(googlesheets4)
 
 read_files <- function(path = "data/raw") {
   # Get the list of files
